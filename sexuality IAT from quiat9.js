@@ -1,5 +1,5 @@
 
-define(['pipAPI', 'https://cdn.jsdelivr.net/gh/masciacca/IAT-Sexuality-Spanish-v2@main/v2.js'], function(APIConstructor, iatExtension){
+define(['pipAPI', 'https://cdn.jsdelivr.net/gh/masciacca/IAT-Spanish/quiat9_spanish%20language%20version.js'], function(APIConstructor, iatExtension){
 	var API = new APIConstructor();
 
 	var posWords = API.shuffle([
